@@ -3,7 +3,7 @@
 # Kali Linux 2025 / Debian Lightweight RDP Desktop Setup Script
 # ===========================================================
 # Purpose: Configure a lightweight RDP-accessible desktop environment
-#          usable from Microsoft Remote Desktop (Android)
+#          usable from Microsoft Remote Desktop
 #
 # Features:
 #   - LXDE desktop environment (lightweight, low RAM)
